@@ -17,6 +17,8 @@ let img=document.createElement('img')
      let p2= document.createElement('p')
      p2.innerHTML='DHTML is differentiated from Ajax by the fact that a DHTML page is still request/reload-based. With DHTML, there may not be any interaction between the client and server after the page is loaded; all processing happens in JavaScript on the client side. By contrast, an Ajax page uses features of DHTML to initiate a'
      body.appendChild(p2)
-
+    let button=document.createElement('button')
+    /// dom prcatic
+    
                     
  

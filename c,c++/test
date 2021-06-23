@@ -1,0 +1,9 @@
+#include<stdio>
+
+int main(){
+    int age;
+    printf("print"\n);
+    scanf("%d",&age);
+    printf("age id %d" ,age);
+    return 0;
+}
